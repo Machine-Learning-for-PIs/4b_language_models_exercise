@@ -16,4 +16,4 @@ module load PyTorch
 
 pip install -r requirements.txt
 
-python ./src/train.py
+python ./src/train.py --data_dir data/shakespeare --model Attention
