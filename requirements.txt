@@ -1,0 +1,6 @@
+nox
+numpy
+matplotlib
+transformers
+torch
+accelerate
